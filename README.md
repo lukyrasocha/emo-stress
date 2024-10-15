@@ -1,9 +1,7 @@
 # EmoPair Dataset: Deep dive into emotional and stress responses of people 🫀
 
-Physiological signals provide critical insights into emotional and stress responses, essential for ap-
-plications in health monitoring and mental health treatment. The ”EmoPairCompete” dataset,
-introduced by Das et al. (2024) [2], offers a unique perspective on emotion and frustration as-
-sessment under team and competitive behaviors [2]. This dataset not only captures physiological
+Physiological signals provide critical insights into emotional and stress responses, essential for applications in health monitoring and mental health treatment. The ”EmoPairCompete” dataset,
+introduced by Das et al. (2024), offers a unique perspective on emotion and frustration assessment under team and competitive behaviors. This dataset not only captures physiological
 signals such as heart rate, electrodermal activity, and temperature but also correlates these signals
 with self-reported emotional states, providing a comprehensive resource for studying physiological
 responses in semi-controlled setting
